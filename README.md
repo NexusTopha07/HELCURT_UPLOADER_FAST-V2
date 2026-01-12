@@ -12,7 +12,7 @@
 - Click on Deploy Easily
 - Press the below button to Fast deploy on Heroku</b>
 
-   [![Deploy](https://www.heroku.com/deploy?template=https://github.com/heroku/nodejs-getting-started)](https://heroku.com/deploy)
+   [![Deploy](https://www.heroku.com/deploy?template=https://github.com/NexusTopha07/HELCURT_UPLOADER_FAST-V2)](https://heroku.com/deploy)
 - <b>Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.</b></details>
 
 <details><summary><b>Deploy To Koyeb</b></summary>
