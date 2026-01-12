@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/v6Vr7HCt/1000003297.png" alt="ITsGOLU">
+  <img src="https://i.ibb.co/kVBgGbGG/Picsart-25-10-26-20-52-21-165.jpg" alt="Helcurt">
 </p>
 <h1 align="center">
-  <a href="https://github.com/ITsGOLU-OFFICIAL/ITsGOLU_UPLOADER_FAST-V2">
+  <a href="https://github.com/NexusTopha07/HELCURT_UPLOADER_FAST-V2">
 </h1>
 <br>
 <details>
