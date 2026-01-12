@@ -55,4 +55,4 @@ Use these settings when adding a monitor:</b>
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
-
+https://www.heroku.com/deploy?template=https://github.com/NexusTopha07/HELCURT_UPLOADER_FAST-V2
